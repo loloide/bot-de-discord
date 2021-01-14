@@ -43,4 +43,4 @@ async def clearpoll(ctx):
     poll.clear()
 
 
-client.run("Nzc4Mzg0NzM4MDkxOTI1NTc1.X7RNRw.gITDEnrucc9LOY4LITeJFId0Foc")
+client.run("token")
